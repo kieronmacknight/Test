@@ -1,0 +1,14 @@
+D:\Users\localadmin\source\repos\Covid.Core\Covid.Api.UnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Users\localadmin\source\repos\Covid.Core\Covid.Api.UnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Users\localadmin\source\repos\Covid.Core\Covid.Api.UnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Users\localadmin\source\repos\Covid.Core\Covid.Api.UnitTest\bin\Debug\netcoreapp2.1\Covid.Api.UnitTest.deps.json
+D:\Users\localadmin\source\repos\Covid.Core\Covid.Api.UnitTest\bin\Debug\netcoreapp2.1\Covid.Api.UnitTest.runtimeconfig.json
+D:\Users\localadmin\source\repos\Covid.Core\Covid.Api.UnitTest\bin\Debug\netcoreapp2.1\Covid.Api.UnitTest.runtimeconfig.dev.json
+D:\Users\localadmin\source\repos\Covid.Core\Covid.Api.UnitTest\bin\Debug\netcoreapp2.1\Covid.Api.UnitTest.dll
+D:\Users\localadmin\source\repos\Covid.Core\Covid.Api.UnitTest\bin\Debug\netcoreapp2.1\Covid.Api.UnitTest.pdb
+D:\Users\localadmin\source\repos\Covid.Core\Covid.Api.UnitTest\obj\Debug\netcoreapp2.1\Covid.Api.UnitTest.csproj.CoreCompileInputs.cache
+D:\Users\localadmin\source\repos\Covid.Core\Covid.Api.UnitTest\obj\Debug\netcoreapp2.1\Covid.Api.UnitTest.AssemblyInfoInputs.cache
+D:\Users\localadmin\source\repos\Covid.Core\Covid.Api.UnitTest\obj\Debug\netcoreapp2.1\Covid.Api.UnitTest.AssemblyInfo.cs
+D:\Users\localadmin\source\repos\Covid.Core\Covid.Api.UnitTest\obj\Debug\netcoreapp2.1\Covid.Api.UnitTest.dll
+D:\Users\localadmin\source\repos\Covid.Core\Covid.Api.UnitTest\obj\Debug\netcoreapp2.1\Covid.Api.UnitTest.pdb
+D:\Users\localadmin\source\repos\Covid.Core\Covid.Api.UnitTest\obj\Debug\netcoreapp2.1\Covid.Api.UnitTest.csprojAssemblyReference.cache

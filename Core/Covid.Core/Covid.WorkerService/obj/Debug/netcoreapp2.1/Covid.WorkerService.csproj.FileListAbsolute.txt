@@ -1,0 +1,14 @@
+D:\Users\localadmin\source\repos\Covid.Core\Covid.WorkerService\bin\Debug\netcoreapp2.1\Covid.WorkerService.deps.json
+D:\Users\localadmin\source\repos\Covid.Core\Covid.WorkerService\bin\Debug\netcoreapp2.1\Covid.WorkerService.runtimeconfig.json
+D:\Users\localadmin\source\repos\Covid.Core\Covid.WorkerService\bin\Debug\netcoreapp2.1\Covid.WorkerService.runtimeconfig.dev.json
+D:\Users\localadmin\source\repos\Covid.Core\Covid.WorkerService\bin\Debug\netcoreapp2.1\Covid.WorkerService.dll
+D:\Users\localadmin\source\repos\Covid.Core\Covid.WorkerService\bin\Debug\netcoreapp2.1\Covid.WorkerService.pdb
+D:\Users\localadmin\source\repos\Covid.Core\Covid.WorkerService\obj\Debug\netcoreapp2.1\Covid.WorkerService.csproj.CoreCompileInputs.cache
+D:\Users\localadmin\source\repos\Covid.Core\Covid.WorkerService\obj\Debug\netcoreapp2.1\Covid.WorkerService.AssemblyInfoInputs.cache
+D:\Users\localadmin\source\repos\Covid.Core\Covid.WorkerService\obj\Debug\netcoreapp2.1\Covid.WorkerService.AssemblyInfo.cs
+D:\Users\localadmin\source\repos\Covid.Core\Covid.WorkerService\obj\Debug\netcoreapp2.1\Covid.WorkerService.dll
+D:\Users\localadmin\source\repos\Covid.Core\Covid.WorkerService\obj\Debug\netcoreapp2.1\Covid.WorkerService.pdb
+D:\Users\localadmin\source\repos\Covid.Core\Covid.WorkerService\obj\Debug\netcoreapp2.1\Covid.WorkerService.csprojAssemblyReference.cache
+D:\Users\localadmin\source\repos\Covid.Core\Covid.WorkerService\bin\Debug\netcoreapp2.1\Covid.WorkerService.dll.config
+D:\Users\localadmin\source\repos\Covid.Core\Covid.WorkerService\bin\Debug\netcoreapp2.1\App.config
+D:\Users\localadmin\source\repos\Covid.Core\Covid.WorkerService\bin\Debug\netcoreapp2.1\log4net.config

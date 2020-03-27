@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Covid.Api</name>
+    </assembly>
+    <members>
+        <member name="T:Covid.Api.Controllers.V1.ValuesController">
+            <summary>
+            Creates an instance of ValuesV1Controller
+            </summary>
+        </member>
+        <member name="M:Covid.Api.Controllers.V1.ValuesController.Get">
+            <summary>
+            Retrieves values
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Covid.Api.Controllers.V1.ValuesController.Get(System.Int32)">
+            <summary>
+            Gets a value by id
+            </summary>
+            <param name="id">The id of the entity</param>
+            <returns></returns>
+        </member>
+        <member name="M:Covid.Api.Controllers.V1.ValuesController.Post(System.String)">
+            <summary>
+            Creates an entity
+            </summary>
+            <param name="value">The entity</param>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:Covid.Api.Controllers.V1.ValuesController.Put(System.Int32,System.String)" -->
+        <member name="M:Covid.Api.Controllers.V1.ValuesController.Delete(System.Int32)">
+            <summary>
+            Deletes the specified entity
+            </summary>
+            <param name="id">The id of the entity</param>
+        </member>
+        <member name="T:Covid.Api.Controllers.V2.HomeController">
+            <summary>
+            Creates an instance of ValuesV1Controller
+            </summary>
+        </member>
+        <member name="M:Covid.Api.Controllers.V2.HomeController.Get">
+            <summary>
+            Retrieves values
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Covid.Api.Controllers.V2.HomeController.Get(System.Int32)">
+            <summary>
+            Gets a value by id
+            </summary>
+            <param name="id">The id of the entity</param>
+            <returns></returns>
+        </member>
+        <member name="M:Covid.Api.Controllers.V2.HomeController.Post(System.String)">
+            <summary>
+            Creates an entity
+            </summary>
+            <param name="value">The entity</param>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:Covid.Api.Controllers.V2.HomeController.Put(System.Int32,System.String)" -->
+        <member name="M:Covid.Api.Controllers.V2.HomeController.Delete(System.Int32)">
+            <summary>
+            Deletes the specified entity
+            </summary>
+            <param name="id">The id of the entity</param>
+        </member>
+    </members>
+</doc>

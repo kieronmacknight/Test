@@ -1,0 +1,16 @@
+D:\Users\localadmin\source\repos\Covid.Core\Covid.Api\obj\Debug\netcoreapp2.1\Covid.Api.csproj.CoreCompileInputs.cache
+D:\Users\localadmin\source\repos\Covid.Core\Covid.Api\obj\Debug\netcoreapp2.1\Covid.Api.AssemblyInfoInputs.cache
+D:\Users\localadmin\source\repos\Covid.Core\Covid.Api\obj\Debug\netcoreapp2.1\Covid.Api.AssemblyInfo.cs
+D:\Users\localadmin\source\repos\Covid.Core\Covid.Api\bin\Debug\netcoreapp2.1\Covid.Api.deps.json
+D:\Users\localadmin\source\repos\Covid.Core\Covid.Api\bin\Debug\netcoreapp2.1\Covid.Api.runtimeconfig.json
+D:\Users\localadmin\source\repos\Covid.Core\Covid.Api\bin\Debug\netcoreapp2.1\Covid.Api.runtimeconfig.dev.json
+D:\Users\localadmin\source\repos\Covid.Core\Covid.Api\bin\Debug\netcoreapp2.1\Covid.Api.dll
+D:\Users\localadmin\source\repos\Covid.Core\Covid.Api\bin\Debug\netcoreapp2.1\Covid.Api.pdb
+D:\Users\localadmin\source\repos\Covid.Core\Covid.Api\obj\Debug\netcoreapp2.1\Covid.Api.csprojAssemblyReference.cache
+D:\Users\localadmin\source\repos\Covid.Core\Covid.Api\obj\Debug\netcoreapp2.1\Covid.Api.RazorAssemblyInfo.cache
+D:\Users\localadmin\source\repos\Covid.Core\Covid.Api\obj\Debug\netcoreapp2.1\Covid.Api.RazorAssemblyInfo.cs
+D:\Users\localadmin\source\repos\Covid.Core\Covid.Api\obj\Debug\netcoreapp2.1\Covid.Api.RazorTargetAssemblyInfo.cache
+D:\Users\localadmin\source\repos\Covid.Core\Covid.Api\obj\Debug\netcoreapp2.1\Covid.Api.dll
+D:\Users\localadmin\source\repos\Covid.Core\Covid.Api\obj\Debug\netcoreapp2.1\Covid.Api.pdb
+D:\Users\localadmin\source\repos\Covid.Core\Covid.Api\bin\Debug\netcoreapp2.1\Covid.Api.xml
+D:\Users\localadmin\source\repos\Covid.Core\Covid.Api\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
