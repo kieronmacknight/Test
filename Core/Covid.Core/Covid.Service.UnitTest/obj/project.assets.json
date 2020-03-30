@@ -5828,11 +5828,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\localadmin\\source\\repos\\Covid.Core\\Covid.Service.UnitTest\\Covid.Service.UnitTest.csproj",
+      "projectUniqueName": "D:\\DEV\\Core\\Covid.Core\\Covid.Service.UnitTest\\Covid.Service.UnitTest.csproj",
       "projectName": "Covid.Service.UnitTest",
-      "projectPath": "D:\\Users\\localadmin\\source\\repos\\Covid.Core\\Covid.Service.UnitTest\\Covid.Service.UnitTest.csproj",
+      "projectPath": "D:\\DEV\\Core\\Covid.Core\\Covid.Service.UnitTest\\Covid.Service.UnitTest.csproj",
       "packagesPath": "D:\\Users\\localadmin\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\localadmin\\source\\repos\\Covid.Core\\Covid.Service.UnitTest\\obj\\",
+      "outputPath": "D:\\DEV\\Core\\Covid.Core\\Covid.Service.UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

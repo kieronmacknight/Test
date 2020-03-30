@@ -12927,11 +12927,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\localadmin\\source\\repos\\Covid.Core\\Covid.Api\\Covid.Api.csproj",
+      "projectUniqueName": "D:\\DEV\\Core\\Covid.Core\\Covid.Api\\Covid.Api.csproj",
       "projectName": "Covid.Api",
-      "projectPath": "D:\\Users\\localadmin\\source\\repos\\Covid.Core\\Covid.Api\\Covid.Api.csproj",
+      "projectPath": "D:\\DEV\\Core\\Covid.Core\\Covid.Api\\Covid.Api.csproj",
       "packagesPath": "D:\\Users\\localadmin\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\localadmin\\source\\repos\\Covid.Core\\Covid.Api\\obj\\",
+      "outputPath": "D:\\DEV\\Core\\Covid.Core\\Covid.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "40debef1e6d85e2c8c5621869b0fa11861ea66fa"
+    "signature": "e35130c89d191fd610e720db8f0a7c1d30b833bd"
   },
   "compilationOptions": {},
   "targets": {
@@ -14,6 +14,7 @@
           "Microsoft.Extensions.Configuration.Json": "3.1.3",
           "Microsoft.Extensions.Configuration.Xml": "3.1.3",
           "Microsoft.Extensions.Logging.Log4Net.AspNetCore": "3.1.0",
+          "Newtonsoft.Json": "12.0.3",
           "Topshelf": "4.2.1",
           "log4net": "2.0.8"
         },
@@ -269,6 +270,14 @@
           "runtime/win/lib/_._": {
             "rid": "win",
             "assetType": "runtime"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
           }
         }
       },
@@ -1442,6 +1451,13 @@
       "sha512": "sha512-+FWlwd//+Tt56316p00hVePBCouXyEzT86Jb3+AuRotTND0IYn0OO3obs1gnQEs/txEnt+rF2JBGLItTG+Be6A==",
       "path": "microsoft.win32.registry/4.5.0",
       "hashPath": "microsoft.win32.registry.4.5.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
     },
     "runtime.native.System/4.0.0": {
       "type": "package",

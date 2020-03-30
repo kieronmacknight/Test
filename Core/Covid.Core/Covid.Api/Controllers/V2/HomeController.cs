@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Covid.Api.Controllers.V2
 {
@@ -11,14 +13,34 @@ namespace Covid.Api.Controllers.V2
     [ApiController]
     public class HomeController : ControllerBase
     {
+        private readonly IEnumerable<string> _messages;
+        private readonly Random rnd;
+
+        public HomeController()
+        {
+            _messages = new List<string>()
+            {
+                "We're gonna need a bigger boat",
+                "I'll be back.",
+                "Say hello to my little friend.",
+                "Thats not a knife, this is a knife.",
+                "We ride together, we die together, bad boys for life",
+                "Don't cross the streams.",
+                "Get to the chopper",
+            };
+
+            rnd = new Random();
+        }
+
         /// <summary>
         /// Retrieves values
         /// </summary>
         /// <returns></returns>
         [HttpGet]
-        public ActionResult<IEnumerable<string>> Get()
+        public ActionResult<string> Get()
         {
-            return new string[] { "value1", "value2" };
+            var idx = rnd.Next(0, 6);
+            return (_messages.ToArray())[idx];
         }
 
         /// <summary>
