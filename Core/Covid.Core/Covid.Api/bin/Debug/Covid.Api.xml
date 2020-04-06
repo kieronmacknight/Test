@@ -6,7 +6,7 @@
     <members>
         <member name="T:Covid.Api.Controllers.V1.ValuesController">
             <summary>
-            Creates an instance of ValuesV1Controller
+            Creates an instance of ValuesV1Controller!!!!!
             </summary>
         </member>
         <member name="M:Covid.Api.Controllers.V1.ValuesController.Get">
@@ -19,7 +19,7 @@
             <summary>
             Gets a value by id
             </summary>
-            <param name="id">The id of the entity</param>
+            <param name="id">The id of the entity!!!!!</param>
             <returns></returns>
         </member>
         <member name="M:Covid.Api.Controllers.V1.ValuesController.Post(System.String)">
